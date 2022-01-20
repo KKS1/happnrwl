@@ -1,5 +1,7 @@
 import styles from './index.module.css';
 
+import { SharedUiLayout } from '@happynrwl/ui-components';
+
 export function Index() {
   /*
    * Replace the elements below with your own.
@@ -16,6 +18,10 @@ export function Index() {
               Welcome tuskdesk 👋
             </h1>
           </div>
+
+          <SharedUiLayout>
+            <p>The main content</p>
+          </SharedUiLayout>
 
           <div id="hero" className="rounded">
             <div className="text-container">

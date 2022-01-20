@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
+    "shared-ui-layout": "libs/shared-ui-layout",
+    "shared-ui-layout-e2e": "apps/shared-ui-layout-e2e",
     "tuskdesk": "apps/tuskdesk",
     "tuskdesk-e2e": "apps/tuskdesk-e2e"
   }
