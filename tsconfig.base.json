@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@happynrwl/ui-components": ["libs/shared-ui-layout/src/index.ts"]
+      "@happnrwl/ui-components": ["libs/shared-ui-layout/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
