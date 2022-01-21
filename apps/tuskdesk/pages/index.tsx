@@ -1,6 +1,6 @@
 import styles from './index.module.css';
 
-import { SharedUiLayout } from '@happnrwl/ui-components';
+import { SharedUiLayout } from '@kks1/happnrwl-ui-components';
 
 export function Index() {
   /*
