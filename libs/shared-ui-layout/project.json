@@ -70,12 +70,5 @@
         }
       }
     }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KKS1/happnrwl"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
